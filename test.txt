@@ -6,3 +6,11 @@ local
 sbin
 share
 src
+bin
+games
+include
+lib
+local
+sbin
+share
+src

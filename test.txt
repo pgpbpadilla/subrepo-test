@@ -1,3 +1,5 @@
+asdf
+
 bin
 games
 include
@@ -14,3 +16,17 @@ local
 sbin
 share
 src
+
+
+<<<<<<< HEAD
+adsfads
+=======
+dsafsda
+f
+
+adsf
+af
+dsf
+sad
+>>>>>>> test
+f

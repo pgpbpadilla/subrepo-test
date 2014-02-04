@@ -1,3 +1,4 @@
 a new awesome feature
+hot fix
 
 fix A

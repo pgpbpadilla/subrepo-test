@@ -1,3 +1,4 @@
+adding support for iOS 7
 asdf
 
 bin

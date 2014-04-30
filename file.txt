@@ -6,3 +6,6 @@ fix A
 =======
 This is one change
 >>>>>>> feature/featureX
+
+asdfasdf
+
